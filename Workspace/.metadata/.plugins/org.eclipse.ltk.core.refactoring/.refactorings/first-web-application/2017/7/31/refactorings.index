@@ -1,0 +1,11 @@
+1501438896340	Move 'views' to 'WEB-INF'
+1501441623842	Copy file
+1501444019913	Copy file
+1501444042353	Copy compilation unit
+1501529241912	Rename package 'webapp'
+1501538810020	Copy file
+1501543289674	Rename type 'UserValidationService'
+1501543942974	Copy compilation unit
+1501543978943	Rename type 'LoginServlet'
+1501543988374	Rename type 'ToDOServlet'
+1501544105926	Copy file
